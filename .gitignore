@@ -1,0 +1,4 @@
+*.pyc
+build/
+project.egg-info/
+bizscraper/settings.py
